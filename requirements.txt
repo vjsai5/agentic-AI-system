@@ -1,0 +1,6 @@
+streamlit
+ollama
+tavily-python
+graphviz
+reportlab
+python-dotenv
